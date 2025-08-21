@@ -1,0 +1,16 @@
+blockchain-ehr/
+├── contracts/
+│   ├── PatientConsent.sol
+│   └── DataIntegrity.sol
+├── backend/
+│   ├── main.py
+│   ├── ipfs_utils.py
+│   ├── fhir_processor.py
+│   └── smart_contract_interface.py
+├── docker/
+│   └── docker-compose.yml
+├── tests/
+│   └── test_api.py
+├── requirements.txt
+├── README.md
+└── .env
