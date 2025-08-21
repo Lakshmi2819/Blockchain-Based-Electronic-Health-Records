@@ -1,0 +1,23 @@
+# 🩺 Blockchain-Based EHR Prototype
+
+A technical prototype for a hybrid blockchain Electronic Health Records (EHR) system using Ethereum smart contracts, IPFS for decentralized file storage, and a Python backend (FastAPI).
+
+---
+
+## 📦 Features
+
+- Ethereum-based patient consent management smart contract
+- IPFS file storage for encrypted off-chain data
+- FHIR-compatible API for processing health records
+- Dockerized services for local deployment
+- Basic test cases and web3 integration support
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/blockchain-ehr-prototype.git
+cd blockchain-ehr-prototype
