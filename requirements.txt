@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+ipfshttpclient
+web3
